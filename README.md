@@ -11,10 +11,7 @@ Dalam hal ini, perusahaan ingin kita dapat memprediksi customer mana yang akan b
 
 Maka dari itu kita akan membuat model machine learning yang akan memprediksi apakah customer akan churn atau tidak, dalam konteks data yang didapatkan yang akan kita buat adalah model machine learning classification.
 
-Target :
 
-- 0 : Tidak akan berhenti berlangganan (Not Churned)
-- 1 : Akan berhenti berlangganan (Churned)
 
 **Problem Statement**
 
@@ -28,6 +25,11 @@ Maka dari itu poin poin yang akan menjadi objektif kita antara lain:
 - Memprediksi customer mana yang akan churn
 - Mencari penyebab apa yang membuat customer churn
 - Menghitung keuntungan yang bisa didapat setelah memprediksi churn
+
+- Target :
+
+- 0 : Tidak akan berhenti berlangganan (Not Churned)
+- 1 : Akan berhenti berlangganan (Churned)
 
 **Metrics Evaluation**
 
